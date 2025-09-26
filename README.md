@@ -1,8 +1,7 @@
-<h1 align="center">Hi 👋, I'm Oleksandr Mruha</h1> <h3 align="center">Frontend Developer from Ukraine 🇺🇦</h3> <p align="center"> <img src="https://komarev.com/ghpvc/?username=reva1v&label=Profile%20views&color=0e75b6&style=flat" alt="reva1v profile views" /> </p>
-🚀 About Me
-Junior Frontend Developer passionate about building modern, responsive web applications and tools.
-
-<br/>
+<h1 align="center">Hi 👋, I'm Oleksandr Mruha</h1> 
+<h3 align="center">Frontend Developer from Ukraine</h3> 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=reva1v&label=Profile%20views&color=60c476&style=flat" alt="reva1v profile views" /> </p>
+<h4> About Me Junior Frontend Developer passionate about building modern, responsive web applications and tools.</h4>
 
 ### 🛠️ Tech Stack & Tools
 <div align="center"><p>
@@ -36,13 +35,5 @@ Junior Frontend Developer passionate about building modern, responsive web appli
 
 ### 📈GitHub Stats
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=reva1v&show_icons=true&locale=en&theme=dark&layout=compact" alt="reva1v stats" /> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=reva1v&show_icons=true&layout=compact&locale=en&theme=dark&exclude_repo=DUT-C-plus-plus&langs_count=8" alt="reva1v top languages" /> </p>
-
-<br/>
-
-### Bizness
-- 📄: [My Resume/CV](https://reva1v.github.io/CV/)
-- 🔗: https://www.linkedin.com/in/oleksandr-mruha/
-
-<br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=reva1v&show_icons=true&locale=en&theme=dark&layout=compact&rank_icon=github" alt="reva1v stats" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=reva1v&show_icons=true&layout=compact&locale=en&theme=dark&exclude_repo=DUT-C-plus-plus&langs_count=8&size_weight=0&count_weight=1" alt="reva1v top languages" /> </p>
