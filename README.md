@@ -31,8 +31,3 @@
 <img alt="NPM" src="https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=white" /> </div>
 </p>
 </div>
-
-### 📈GitHub Stats
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=reva1v&show_icons=true&locale=en&theme=dark&layout=compact&rank_icon=github" alt="reva1v stats" /> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=reva1v&show_icons=true&layout=compact&locale=en&theme=dark&exclude_repo=DUT-C-plus-plus&langs_count=8&size_weight=0&count_weight=1" alt="reva1v top languages" /> </p>
