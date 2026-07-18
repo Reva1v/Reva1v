@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Oleksandr Mruha</h1> 
-<h3 align="center">Frontend Developer from Ukraine</h3> 
+<h3 align="center">FullStack Developer from Ukraine</h3> 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=reva1v&label=Profile%20views&color=60c476&style=flat" alt="reva1v profile views" /> </p>
-<h4> About Me Junior Frontend Developer passionate about building modern, responsive web applications and tools.</h4>
+<h4> About Me FullStack Developer passionate about building modern, responsive web applications and tools.</h4>
 
 ### 🛠️ Tech Stack & Tools
 <div align="center"><p>
