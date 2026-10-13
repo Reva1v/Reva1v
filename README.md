@@ -4,6 +4,8 @@
   <img alt="Oleksandr Mruha — Full Stack Developer · AI Agents & LLM Integration" src="assets/header-dark.svg" width="100%" />
 </picture>
 
+<br/>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/oleksandr-mruha"><img src="assets/badges/linkedin.svg" alt="LinkedIn" /></a>
   <a href="https://t.me/Reva1v"><img src="assets/badges/telegram.svg" alt="Telegram" /></a>
