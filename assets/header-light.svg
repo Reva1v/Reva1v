@@ -1,0 +1,129 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="240" viewBox="0 0 1000 240">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#f6f3ff"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#8b5cf6"/>
+      <stop offset="1" stop-color="#22d3ee"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .name { font: 700 50px 'Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif; fill: #1f2328; letter-spacing: -0.5px; }
+    .role { font: 400 20px 'Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif; fill: #59636e; }
+    .mono { font: 500 17px ui-monospace,SFMono-Regular,'Cascadia Code',Consolas,Menlo,monospace; fill: #6d28d9; }
+    .prompt { font: 500 17px ui-monospace,SFMono-Regular,'Cascadia Code',Consolas,Menlo,monospace; fill: #59636e; }
+    .phrase { opacity: 0; animation: cycle 10.5s infinite; }
+    .pulse { animation: pulse 4s ease-in-out infinite; }
+    @keyframes cycle {
+      0% { opacity: 0; } 4% { opacity: 1; } 29% { opacity: 1; } 33.3% { opacity: 0; } 100% { opacity: 0; }
+    }
+    @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.35; } }
+    @media (prefers-reduced-motion: reduce) {
+      .phrase, .pulse { animation: none; }
+      .phrase:first-of-type { opacity: 1; }
+    }
+  </style>
+  <rect x="0.5" y="0.5" width="999" height="239" rx="14" fill="url(#bg)" stroke="#d0d7de"/>
+  <rect x="48" y="62" width="4" height="138" rx="2" fill="url(#accent)"/>
+  <text x="72" y="106" class="name">Oleksandr Mruha</text>
+  <text x="72" y="142" class="role">Full Stack Developer · AI Agents &amp; LLM Integration</text>
+  <text x="72" y="186" class="prompt">❯</text>
+    <text x="98" y="186" class="mono phrase" style="animation-delay:0.0s">building AI agents that ship to production</text>
+    <text x="98" y="186" class="mono phrase" style="animation-delay:3.5s">React · TypeScript · Node.js · Python · Rust</text>
+    <text x="98" y="186" class="mono phrase" style="animation-delay:7.0s">turning LLMs into real business workflows</text>
+  <g>
+    <rect x="722" y="59" width="14" height="14" rx="3" fill="#ebedf0"/>
+    <rect x="722" y="77" width="14" height="14" rx="3" fill="#ebedf0"/>
+    <rect x="722" y="95" width="14" height="14" rx="3" fill="#ddd6fe"/>
+    <rect x="722" y="113" width="14" height="14" rx="3" fill="#ebedf0"/>
+    <rect x="722" y="131" width="14" height="14" rx="3" fill="#ebedf0"/>
+    <rect x="722" y="149" width="14" height="14" rx="3" fill="#ebedf0"/>
+    <rect x="722" y="167" width="14" height="14" rx="3" fill="#ddd6fe"/>
+    <rect x="740" y="59" width="14" height="14" rx="3" fill="#ebedf0"/>
+    <rect x="740" y="77" width="14" height="14" rx="3" fill="#c4b5fd"/>
+    <rect x="740" y="95" width="14" height="14" rx="3" fill="#ddd6fe"/>
+    <rect x="740" y="113" width="14" height="14" rx="3" fill="#ebedf0"/>
+    <rect x="740" y="131" width="14" height="14" rx="3" fill="#c4b5fd"/>
+    <rect x="740" y="149" width="14" height="14" rx="3" fill="#ebedf0"/>
+    <rect x="740" y="167" width="14" height="14" rx="3" fill="#ddd6fe"/>
+    <rect x="758" y="59" width="14" height="14" rx="3" fill="#ebedf0"/>
+    <rect x="758" y="77" width="14" height="14" rx="3" fill="#c4b5fd"/>
+    <rect x="758" y="95" width="14" height="14" rx="3" fill="#ebedf0"/>
+    <rect x="758" y="113" width="14" height="14" rx="3" fill="#ebedf0"/>
+    <rect x="758" y="131" width="14" height="14" rx="3" fill="#c4b5fd"/>
+    <rect x="758" y="149" width="14" height="14" rx="3" fill="#ddd6fe"/>
+    <rect x="758" y="167" width="14" height="14" rx="3" fill="#ddd6fe"/>
+    <rect x="776" y="59" width="14" height="14" rx="3" fill="#8b5cf6" class="pulse" style="animation-delay:2.30s"/>
+    <rect x="776" y="77" width="14" height="14" rx="3" fill="#c4b5fd"/>
+    <rect x="776" y="95" width="14" height="14" rx="3" fill="#c4b5fd"/>
+    <rect x="776" y="113" width="14" height="14" rx="3" fill="#ebedf0"/>
+    <rect x="776" y="131" width="14" height="14" rx="3" fill="#ddd6fe"/>
+    <rect x="776" y="149" width="14" height="14" rx="3" fill="#ddd6fe"/>
+    <rect x="776" y="167" width="14" height="14" rx="3" fill="#ebedf0"/>
+    <rect x="794" y="59" width="14" height="14" rx="3" fill="#8b5cf6"/>
+    <rect x="794" y="77" width="14" height="14" rx="3" fill="#ddd6fe"/>
+    <rect x="794" y="95" width="14" height="14" rx="3" fill="#c4b5fd"/>
+    <rect x="794" y="113" width="14" height="14" rx="3" fill="#c4b5fd"/>
+    <rect x="794" y="131" width="14" height="14" rx="3" fill="#8b5cf6"/>
+    <rect x="794" y="149" width="14" height="14" rx="3" fill="#ddd6fe"/>
+    <rect x="794" y="167" width="14" height="14" rx="3" fill="#c4b5fd"/>
+    <rect x="812" y="59" width="14" height="14" rx="3" fill="#8b5cf6"/>
+    <rect x="812" y="77" width="14" height="14" rx="3" fill="#ebedf0"/>
+    <rect x="812" y="95" width="14" height="14" rx="3" fill="#ebedf0"/>
+    <rect x="812" y="113" width="14" height="14" rx="3" fill="#ebedf0"/>
+    <rect x="812" y="131" width="14" height="14" rx="3" fill="#ebedf0"/>
+    <rect x="812" y="149" width="14" height="14" rx="3" fill="#ddd6fe"/>
+    <rect x="812" y="167" width="14" height="14" rx="3" fill="#ebedf0"/>
+    <rect x="830" y="59" width="14" height="14" rx="3" fill="#c4b5fd"/>
+    <rect x="830" y="77" width="14" height="14" rx="3" fill="#8b5cf6"/>
+    <rect x="830" y="95" width="14" height="14" rx="3" fill="#c4b5fd"/>
+    <rect x="830" y="113" width="14" height="14" rx="3" fill="#c4b5fd"/>
+    <rect x="830" y="131" width="14" height="14" rx="3" fill="#ebedf0"/>
+    <rect x="830" y="149" width="14" height="14" rx="3" fill="#ebedf0"/>
+    <rect x="830" y="167" width="14" height="14" rx="3" fill="#c4b5fd"/>
+    <rect x="848" y="59" width="14" height="14" rx="3" fill="#8b5cf6" class="pulse" style="animation-delay:1.68s"/>
+    <rect x="848" y="77" width="14" height="14" rx="3" fill="#c4b5fd"/>
+    <rect x="848" y="95" width="14" height="14" rx="3" fill="#6d28d9"/>
+    <rect x="848" y="113" width="14" height="14" rx="3" fill="#8b5cf6" class="pulse" style="animation-delay:3.60s"/>
+    <rect x="848" y="131" width="14" height="14" rx="3" fill="#8b5cf6"/>
+    <rect x="848" y="149" width="14" height="14" rx="3" fill="#c4b5fd"/>
+    <rect x="848" y="167" width="14" height="14" rx="3" fill="#ddd6fe"/>
+    <rect x="866" y="59" width="14" height="14" rx="3" fill="#ebedf0"/>
+    <rect x="866" y="77" width="14" height="14" rx="3" fill="#ebedf0"/>
+    <rect x="866" y="95" width="14" height="14" rx="3" fill="#ebedf0"/>
+    <rect x="866" y="113" width="14" height="14" rx="3" fill="#ebedf0"/>
+    <rect x="866" y="131" width="14" height="14" rx="3" fill="#c4b5fd"/>
+    <rect x="866" y="149" width="14" height="14" rx="3" fill="#ddd6fe"/>
+    <rect x="866" y="167" width="14" height="14" rx="3" fill="#ebedf0"/>
+    <rect x="884" y="59" width="14" height="14" rx="3" fill="#c4b5fd"/>
+    <rect x="884" y="77" width="14" height="14" rx="3" fill="#ebedf0"/>
+    <rect x="884" y="95" width="14" height="14" rx="3" fill="#6d28d9"/>
+    <rect x="884" y="113" width="14" height="14" rx="3" fill="#ebedf0"/>
+    <rect x="884" y="131" width="14" height="14" rx="3" fill="#c4b5fd"/>
+    <rect x="884" y="149" width="14" height="14" rx="3" fill="#c4b5fd"/>
+    <rect x="884" y="167" width="14" height="14" rx="3" fill="#ebedf0"/>
+    <rect x="902" y="59" width="14" height="14" rx="3" fill="#6d28d9" class="pulse" style="animation-delay:2.17s"/>
+    <rect x="902" y="77" width="14" height="14" rx="3" fill="#c4b5fd"/>
+    <rect x="902" y="95" width="14" height="14" rx="3" fill="#6d28d9"/>
+    <rect x="902" y="113" width="14" height="14" rx="3" fill="#c4b5fd"/>
+    <rect x="902" y="131" width="14" height="14" rx="3" fill="#c4b5fd"/>
+    <rect x="902" y="149" width="14" height="14" rx="3" fill="#8b5cf6" class="pulse" style="animation-delay:0.89s"/>
+    <rect x="902" y="167" width="14" height="14" rx="3" fill="#6d28d9"/>
+    <rect x="920" y="59" width="14" height="14" rx="3" fill="#6d28d9"/>
+    <rect x="920" y="77" width="14" height="14" rx="3" fill="#8b5cf6"/>
+    <rect x="920" y="95" width="14" height="14" rx="3" fill="#ebedf0"/>
+    <rect x="920" y="113" width="14" height="14" rx="3" fill="#8b5cf6"/>
+    <rect x="920" y="131" width="14" height="14" rx="3" fill="#6d28d9"/>
+    <rect x="920" y="149" width="14" height="14" rx="3" fill="#6d28d9"/>
+    <rect x="920" y="167" width="14" height="14" rx="3" fill="#ebedf0"/>
+    <rect x="938" y="59" width="14" height="14" rx="3" fill="#ebedf0"/>
+    <rect x="938" y="77" width="14" height="14" rx="3" fill="#6d28d9"/>
+    <rect x="938" y="95" width="14" height="14" rx="3" fill="#6d28d9"/>
+    <rect x="938" y="113" width="14" height="14" rx="3" fill="#c4b5fd"/>
+    <rect x="938" y="131" width="14" height="14" rx="3" fill="#6d28d9"/>
+    <rect x="938" y="149" width="14" height="14" rx="3" fill="#ebedf0"/>
+    <rect x="938" y="167" width="14" height="14" rx="3" fill="#6d28d9"/>
+  </g>
+</svg>
