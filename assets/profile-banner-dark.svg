@@ -14,15 +14,10 @@
     .role { font: 400 20px 'Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif; fill: #8b949e; }
     .mono { font: 500 17px ui-monospace,SFMono-Regular,'Cascadia Code',Consolas,Menlo,monospace; fill: #7ee787; }
     .prompt { font: 500 17px ui-monospace,SFMono-Regular,'Cascadia Code',Consolas,Menlo,monospace; fill: #8b949e; }
-    .phrase { opacity: 0; animation: cycle 10.5s infinite; }
     .pulse { animation: pulse 4s ease-in-out infinite; }
-    @keyframes cycle {
-      0% { opacity: 0; } 4% { opacity: 1; } 29% { opacity: 1; } 33.3% { opacity: 0; } 100% { opacity: 0; }
-    }
     @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.35; } }
     @media (prefers-reduced-motion: reduce) {
-      .phrase, .pulse { animation: none; }
-      .phrase:first-of-type { opacity: 1; }
+      .pulse { animation: none; }
     }
   </style>
   <rect x="0.5" y="0.5" width="999" height="239" rx="14" fill="url(#bg)" stroke="#30363d"/>
@@ -30,9 +25,7 @@
   <text x="72" y="106" class="name">Oleksandr Mruha</text>
   <text x="72" y="142" class="role">Full Stack Developer · AI Agents &amp; LLM Integration</text>
   <text x="72" y="186" class="prompt">❯</text>
-    <text x="98" y="186" class="mono phrase" style="animation-delay:0.0s">building AI agents that ship to production</text>
-    <text x="98" y="186" class="mono phrase" style="animation-delay:3.5s">React · TypeScript · Node.js · Python · Rust</text>
-    <text x="98" y="186" class="mono phrase" style="animation-delay:7.0s">turning LLMs into real business workflows</text>
+    <text x="98" y="186" class="mono">React · TypeScript · Node.js · Python · Rust</text>
   <g>
     <rect x="722" y="59" width="14" height="14" rx="3" fill="#161b22"/>
     <rect x="722" y="77" width="14" height="14" rx="3" fill="#161b22"/>
